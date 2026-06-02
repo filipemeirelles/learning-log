@@ -29,4 +29,4 @@ This repo tracks my transition from Personal Trainer to AI Automation. Every stu
 
 - [x] n8n installed locally — 2026-05-31
 - [ ] First Telegram + OpenAI workflow
-- [ ] Learning-log repo created
+- [x] Learning-log repo created — 2026-06-02
